@@ -1,4 +1,7 @@
-![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
+# Yolo-frog #
+Yolo-frog is a fork of the original Darknet. It was modified and retrained to the specific task of detecting a frog in our lab conditions. 
+
+This sotware was made to work with Frogger: (coming soon)
 
 # Darknet #
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
